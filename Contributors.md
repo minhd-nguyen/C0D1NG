@@ -134,7 +134,7 @@
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
 - [Mansha Srivastava](https://github.com/123mansha)
-
+- [Minh Nguyen](https://github.com/minhd-nguyen)
 # N
 - [Naman](https://github.com/chnamanch)
 - [Nexus Software Systems](https://github.com/NexWeb)
